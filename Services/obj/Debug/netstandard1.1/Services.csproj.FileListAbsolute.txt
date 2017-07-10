@@ -1,0 +1,5 @@
+C:\Users\Administrator\Downloads\.Net Core\WebApplication2\Services\bin\Debug\netstandard1.1\Services.deps.json
+C:\Users\Administrator\Downloads\.Net Core\WebApplication2\Services\obj\Debug\netstandard1.1\Services.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\.Net Core\WebApplication2\Services\obj\Debug\netstandard1.1\Services.SBResources.resources
+C:\Users\Administrator\Downloads\.Net Core\WebApplication2\Services\obj\Debug\netstandard1.1\Services.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\.Net Core\WebApplication2\Services\obj\Debug\netstandard1.1\Services.AssemblyInfo.cs
